@@ -34,7 +34,7 @@ body{
 }
 .image{
     width: 100%;
-    align-content: center;
+     margin: 0 auto 0 auto;
 }
 .profile img{
     width: 100%;
